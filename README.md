@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mike-gutlaz
-- 👀 I’m interested in becoming a fullstack developer
-- 🌱 I’m currently learning ReactJS and a little bit of Node.
+
 - 💞️ I’m looking to collaborate on every project that helps me to reach my goals and other people's goals. 
 - 📫 To reach me just hit me at michael.gutierrezl@gmail.com
 
